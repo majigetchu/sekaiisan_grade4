@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>知床.kml</name>
+	<StyleMap id="msn_自然遺産">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_自然遺産</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_自然遺産</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_自然遺産">
+		<IconStyle>
+			<scale>3</scale>
+			<Icon>
+				<href>C:\MAMP\htdocs\cesiumGitHubPages\data\icon\shizen.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_自然遺産">
+		<IconStyle>
+			<scale>3.54545</scale>
+			<Icon>
+				<href>C:\MAMP\htdocs\cesiumGitHubPages\data\icon\shizen.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Placemark>
+		<name>知床</name>
+		<description><![CDATA[<img style="max-width:500px;" src="https://lh3.googleusercontent.com/-JfFb7hHbAgQCYZNBYtmgUVkMamWcf3h2AKAqpMJECdrXc7XQJLIAFqNll8rRj2DMvvKZtDGAs3ZEaWSW4Wjwwr_iijnYfzzxv17OIcTxfu_BPPFVhcb4Kt24ZHUTzlzmIXsA2tyZje8eVrIJjZ3Bt3kPJyvfS_kd6_MDLQeIBmzMt-BjMywgRoYYYslV8w-LagcluPm31HJDQdrWKcgrS_ZPGI6VBnRB9mNY2gHzCl9nZn_MZbMYw8sFV_XSnjT1Wa-j5CocZrM2sYRBQycSLcIncrXMusc1-QdPu8_Axyoft14JzrsjamSc_B3Ft9TPcSkUkZAURk1KCDUMA1dopPLKYzD6YhMccFahow7CnH9uZK3iczlKRGEtPsB_SHfPZvL654RXsSze8RIxNhuZB9DqcpIV4nozlneTn2QEnrlkJF5ajjamQcc4kQG7etL9Xlij4DjJzdEqAD9v5dqoH39GgO7L5OuPTJ1d5_J69naGfHjVQtn24JhBbeLriJ4Td2FaoujL5cxfCLEBti7ugjh0Zk8yVdkhSHMQBsdGKT6sOd_85C7zOXtBlzS7th93fYvQ5qQVOIKQO7Cef3l99gPLkgF_TcsY2WzYk91tEnKLREjYjIsk5AXfn3QZt5Y2aVhmTywDd0BhsG3QoKPxN6vROm783pqqQ5LDRDH3g=w957-h638-no" alt = "知床半島連山">
+<body text="#0a0a0a">
+<font size="4px">
+<center>
+<b>
+</br>
+登録年・・・2005年</br>
+登録基準・・・陸海一体の生態系と生物多様性の価値</br>
+</b>
+</center>
+</br>
+イタリアのフィレンツェとほぼ同じ緯度にある。北海道の北東の端にある知床半島沿岸は地球上で最も低い緯度で海水が凍る<font color="red">季節海氷域</font>のため、1月下旬になるとオホーツク海から流氷が接岸し一面が氷に覆われる。</br>
+海に突き出した細長い半島を中心に標高1500m級の知床連山が連なり平らな鳥
+の少ない独特の地形をしているため、<font color="red">食物連鎖</font>を通じて海から山まで一体となった生態系が特徴。</br>
+豊かな自然環境は、市民の寄付による「<font color="blue">しれとこ100平方メートル運動</font>」などの保護活動によって守られてきた。
+</body>]]></description>
+		<LookAt>
+			<gx:TimeStamp><when>2005-07-17</when>
+</gx:TimeStamp>
+			<longitude>145.1074209999165</longitude>
+			<latitude>44.05798500056361</latitude>
+			<altitude>0</altitude>
+			<heading>-5.79910535071243e-011</heading>
+			<tilt>0</tilt>
+			<range>1000.000038258313</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_自然遺産</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>145.1074209999165,44.05798500056361,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>
