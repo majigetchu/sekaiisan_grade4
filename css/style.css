@@ -30,7 +30,7 @@ a:hover {
 /*Cesiumインターフェイス関連*/
 
 .cesium-infoBox-iframe {
-    width: 320px;
+    width: 500px;
     overflow: hidden;
     padding: 0px;
     margin: 0px;
@@ -38,7 +38,7 @@ a:hover {
 }
 
 .cesium-infoBox {
-    width: 320px;
+    width: 500px;
     overflow: hidden;
     padding: 0px;
     margin: 0px;
@@ -49,7 +49,7 @@ a:hover {
 }
 
 .cesium-infoBox-visible {
-    width: 320px;
+    width: 500px;
     overflow: hidden;
     padding: 0px;
     margin: 0px;
